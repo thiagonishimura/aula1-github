@@ -49,6 +49,7 @@ public class Programa {
 		conta.sacar(withdrawValue);
 		System.out.println("Update account data:");
 		System.out.println(conta);
+		System.out.println("Bom dia!");
 		
 		sc.close();
 
